@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "m-moniripiri/m-moniripiri",
+    "data-repo": "m-moniripiri/m-moniripiri.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
